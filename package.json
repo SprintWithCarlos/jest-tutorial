@@ -1,0 +1,30 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "Author": "Carlos Marchena",
+  "description": "Jest Official Tutorial",
+  "main": "index.js",
+  "scripts": {
+   "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SprintWithCarlos/jest-tutorial.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SprintWithCarlos/jest-tutorial/issues"
+  },
+  "homepage": "https://github.com/SprintWithCarlos/jest-tutorial#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  }
+}
